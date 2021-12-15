@@ -1,6 +1,6 @@
 package com.onesignal.language;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Log;
 
 import com.onesignal.OSSharedPreferences;

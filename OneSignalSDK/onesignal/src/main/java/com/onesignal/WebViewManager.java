@@ -6,7 +6,7 @@ import android.app.Activity;
 import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
 import android.util.Base64;
 import android.view.View;

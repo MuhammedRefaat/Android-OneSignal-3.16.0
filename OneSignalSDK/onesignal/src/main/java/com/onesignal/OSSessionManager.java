@@ -1,7 +1,7 @@
 package com.onesignal;
 
 import android.os.Process;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
 
 import com.onesignal.influence.OSChannelTracker;

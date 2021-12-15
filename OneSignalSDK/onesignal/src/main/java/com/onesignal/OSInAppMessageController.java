@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.Process;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
 
 import com.onesignal.OSDynamicTriggerController.OSDynamicTriggerControllerObserver;

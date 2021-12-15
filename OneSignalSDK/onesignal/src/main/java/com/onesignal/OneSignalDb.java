@@ -3,7 +3,7 @@ package com.onesignal;
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.SQLException;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
 
 public interface OneSignalDb {

@@ -1,6 +1,6 @@
 package com.onesignal.outcomes.model;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
 
 import org.json.JSONException;

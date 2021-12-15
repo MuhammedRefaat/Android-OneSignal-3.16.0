@@ -1,6 +1,6 @@
 package com.onesignal.influence;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
 
 import com.onesignal.OSSharedPreferences;

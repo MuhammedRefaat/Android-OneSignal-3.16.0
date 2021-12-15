@@ -2,7 +2,7 @@ package com.onesignal.outcomes;
 
 import android.content.ContentValues;
 import android.database.Cursor;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.support.annotation.WorkerThread;
 
 import com.onesignal.OSLogger;
