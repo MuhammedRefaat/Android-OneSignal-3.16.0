@@ -2,7 +2,7 @@ package com.onesignal;
 
 import android.os.SystemClock;
 import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
 import android.support.annotation.WorkerThread;
 
 import com.onesignal.influence.model.OSInfluence;

@@ -44,7 +44,7 @@ import android.os.Build;
 import android.os.IBinder;
 import android.os.PowerManager;
 import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
 import android.support.annotation.RequiresApi;
 import android.util.Log;
 

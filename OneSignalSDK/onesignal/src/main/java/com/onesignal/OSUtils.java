@@ -43,7 +43,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
 import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
 import android.support.v4.app.NotificationManagerCompat;
 import android.telephony.TelephonyManager;
 

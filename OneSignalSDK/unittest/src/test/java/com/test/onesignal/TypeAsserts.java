@@ -1,6 +1,6 @@
 package com.test.onesignal;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
 
 import java.util.UUID;
 
