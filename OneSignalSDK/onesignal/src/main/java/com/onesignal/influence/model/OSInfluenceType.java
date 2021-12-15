@@ -1,6 +1,6 @@
 package com.onesignal.influence.model;
 
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 public enum OSInfluenceType {
     DIRECT,

@@ -33,8 +33,8 @@ import android.app.Application;
 import android.content.ComponentCallbacks;
 import android.content.res.Configuration;
 import android.os.Bundle;
-import androidx.annotation.NonNull;
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 class ActivityLifecycleListener implements Application.ActivityLifecycleCallbacks {
 

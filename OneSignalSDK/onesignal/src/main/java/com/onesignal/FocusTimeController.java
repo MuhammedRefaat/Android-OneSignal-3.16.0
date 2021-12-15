@@ -1,8 +1,8 @@
 package com.onesignal;
 
 import android.os.SystemClock;
-import androidx.annotation.NonNull;
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.Nullable;
 import androidx.annotation.WorkerThread;
 
 import com.onesignal.influence.model.OSInfluence;

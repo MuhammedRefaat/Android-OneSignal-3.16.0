@@ -27,7 +27,7 @@
 
 package com.onesignal;
 
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.google.android.gms.common.api.GoogleApiClient;
 

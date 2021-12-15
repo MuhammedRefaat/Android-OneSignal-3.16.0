@@ -3,7 +3,7 @@ package com.test.onesignal;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.os.Bundle;
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.onesignal.MockOSLog;
 import com.onesignal.MockOSSharedPreferences;

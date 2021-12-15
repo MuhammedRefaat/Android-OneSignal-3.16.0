@@ -8,7 +8,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.os.Looper;
 import android.os.SystemClock;
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.onesignal.OneSignalDb;
 import com.onesignal.OneSignalPackagePrivateHelper;

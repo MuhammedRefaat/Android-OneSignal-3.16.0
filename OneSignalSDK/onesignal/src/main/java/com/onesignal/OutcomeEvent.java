@@ -1,7 +1,7 @@
 package com.onesignal;
 
-import androidx.annotation.NonNull;
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.onesignal.influence.model.OSInfluenceType;
 import com.onesignal.outcomes.model.OSOutcomeEventParams;

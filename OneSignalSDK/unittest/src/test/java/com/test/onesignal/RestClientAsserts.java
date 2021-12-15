@@ -1,6 +1,6 @@
 package com.test.onesignal;
 
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.onesignal.OneSignalPackagePrivateHelper.UserState;
 import com.onesignal.ShadowOneSignalRestClient;

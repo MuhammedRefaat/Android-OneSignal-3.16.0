@@ -29,8 +29,8 @@ package com.onesignal;
 
 import android.net.TrafficStats;
 import android.os.Build;
-import androidx.annotation.NonNull;
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import java.io.IOException;
 import java.io.InputStream;

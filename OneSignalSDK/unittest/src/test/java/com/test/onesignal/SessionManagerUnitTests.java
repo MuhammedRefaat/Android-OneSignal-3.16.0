@@ -27,7 +27,7 @@
 
 package com.test.onesignal;
 
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.onesignal.MockOSLog;
 import com.onesignal.MockOSSharedPreferences;

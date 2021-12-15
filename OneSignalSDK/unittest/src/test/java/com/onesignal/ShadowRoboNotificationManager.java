@@ -31,7 +31,7 @@ import android.app.NotificationChannel;
 import android.app.Notification;
 import android.app.NotificationChannelGroup;
 import android.app.NotificationManager;
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
 
 import org.robolectric.annotation.Implements;

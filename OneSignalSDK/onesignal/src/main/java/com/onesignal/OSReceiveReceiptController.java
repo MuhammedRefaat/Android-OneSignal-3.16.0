@@ -27,7 +27,7 @@
 
 package com.onesignal;
 
-import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 class OSReceiveReceiptController {
 
