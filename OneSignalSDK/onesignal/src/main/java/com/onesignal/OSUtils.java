@@ -228,7 +228,7 @@ class OSUtils {
    private static boolean hasBroadcastReceiver() {
       try {
          // noinspection ConstantConditions
-         return android.support.v4.content.BroadcastReceiver.class != null;
+         return android.content.BroadcastReceiver.class != null;
       } catch (Throwable e) {
          return false;
       }
@@ -237,7 +237,7 @@ class OSUtils {
    private static boolean hasNotificationManagerCompat() {
       try {
          // noinspection ConstantConditions
-         return android.support.v7.app.NotificationManagerCompat.class != null;
+         return androidx.core.app.NotificationManagerCompat.class != null;
       } catch (Throwable e) {
          return false;
       }
@@ -246,7 +246,7 @@ class OSUtils {
    private static boolean hasJobIntentService() {
       try {
          // noinspection ConstantConditions
-         return android.support.v7.app.JobIntentService.class != null;
+         return androidx.core.app.JobIntentService.class != null;
       } catch (Throwable e) {
          return false;
       }

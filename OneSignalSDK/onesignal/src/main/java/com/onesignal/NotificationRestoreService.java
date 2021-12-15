@@ -46,6 +46,6 @@ public class NotificationRestoreService extends IntentService {
       OneSignal.setAppContext(this);
 
       NotificationRestorer.restore(this);
-      BroadcastReceiver.completeWakefulIntent(intent);
+      //BroadcastReceiver.completeWakefulIntent(intent);
    }
 }

@@ -180,7 +180,7 @@ public class GcmBroadcastReceiver extends BroadcastReceiver {
          new Intent()
          .replaceExtras((Bundle)taskExtras.getBundle())
          .setComponent(componentName);
-      startWakefulService(context, intentForService);
+      startService(context, intentForService);
    }
 
    private static BundleCompat setCompatBundleForServer(Bundle bundle, BundleCompat taskExtras) {

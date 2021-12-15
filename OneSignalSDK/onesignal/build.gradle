@@ -37,7 +37,7 @@ dependencies {
     // play-services-gcm:16.1.0 is the last version before going to AndroidX
     // compileOnly as this is just for fallback code if FCM wasn't added to the project.
     // Remove for 4.0.0 release
-    compileOnly 'com.google.android.gms:play-services-gcm:16.1.0'
+    compileOnly 'com.google.firebase:firebase-messaging:23.0.0'
 
     // play-services-location:16.0.0 is the last version before going to AndroidX
     // Can be compileOnly in 4.0.0, can't change until then as some projects may rely on this

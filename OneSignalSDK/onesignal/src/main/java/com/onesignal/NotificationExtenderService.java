@@ -121,7 +121,7 @@ public abstract class NotificationExtenderService extends JobIntentService {
          return;
       
       processIntent(intent);
-      GcmBroadcastReceiver.completeWakefulIntent(intent);
+      //GcmBroadcastReceiver.completeWakefulIntent(intent);
    }
 
    private void processIntent(Intent intent) {

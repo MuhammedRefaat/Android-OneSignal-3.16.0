@@ -62,6 +62,6 @@ public class GcmIntentService extends IntentService {
           null);
 
       // Release the wake lock provided by the BroadcastReceiver.
-      GcmBroadcastReceiver.completeWakefulIntent(intent);
+      //GcmBroadcastReceiver.completeWakefulIntent(intent);
    }
 }
