@@ -44,7 +44,7 @@ import android.os.Handler;
 import android.os.Looper;
 import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
-import android.support.v7.app.NotificationManagerCompat;
+import androidx.core.app.NotificationManagerCompat;
 import android.telephony.TelephonyManager;
 
 import com.google.android.gms.common.GoogleApiAvailability;
@@ -225,10 +225,10 @@ class OSUtils {
       return null;
    }
 
-   private static boolean hasWakefulBroadcastReceiver() {
+   private static boolean hasBroadcastReceiver() {
       try {
          // noinspection ConstantConditions
-         return android.support.v4.content.WakefulBroadcastReceiver.class != null;
+         return android.support.v4.content.BroadcastReceiver.class != null;
       } catch (Throwable e) {
          return false;
       }
@@ -253,15 +253,15 @@ class OSUtils {
    }
 
    private Integer checkAndroidSupportLibrary(Context context) {
-      boolean hasWakefulBroadcastReceiver = hasWakefulBroadcastReceiver();
+      boolean hasBroadcastReceiver = hasBroadcastReceiver();
       boolean hasNotificationManagerCompat = hasNotificationManagerCompat();
 
-      if (!hasWakefulBroadcastReceiver && !hasNotificationManagerCompat) {
+      if (!hasBroadcastReceiver && !hasNotificationManagerCompat) {
          Log(OneSignal.LOG_LEVEL.FATAL, "Could not find the Android Support Library. Please make sure it has been correctly added to your project.");
          return UserState.PUSH_STATUS_MISSING_ANDROID_SUPPORT_LIBRARY;
       }
 
-      if (!hasWakefulBroadcastReceiver || !hasNotificationManagerCompat) {
+      if (!hasBroadcastReceiver || !hasNotificationManagerCompat) {
          Log(OneSignal.LOG_LEVEL.FATAL, "The included Android Support Library is to old or incomplete. Please update to the 26.0.0 revision or newer.");
          return UserState.PUSH_STATUS_OUTDATED_ANDROID_SUPPORT_LIBRARY;
       }

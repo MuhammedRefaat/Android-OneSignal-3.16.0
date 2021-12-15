@@ -36,7 +36,7 @@ import android.os.Bundle;
 
 /**
  * This {@code IntentService} does the actual handling of the GCM message.
- * {@code GcmBroadcastReceiver} (a {@code WakefulBroadcastReceiver}) holds a
+ * {@code GcmBroadcastReceiver} (a {@code BroadcastReceiver}) holds a
  * partial wake lock for this service while the service does its work. When the
  * service is finished, it calls {@code completeWakefulIntent()} to release the
  * wake lock.
@@ -61,7 +61,7 @@ public class GcmIntentService extends IntentService {
           new BundleCompatBundle(extras),
           null);
 
-      // Release the wake lock provided by the WakefulBroadcastReceiver.
+      // Release the wake lock provided by the BroadcastReceiver.
       GcmBroadcastReceiver.completeWakefulIntent(intent);
    }
 }

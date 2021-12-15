@@ -45,7 +45,7 @@ import android.os.Bundle;
 import android.os.SystemClock;
 import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
-import android.support.v7.app.NotificationCompat;
+import androidx.core.app.NotificationCompat;
 import android.widget.Button;
 
 import com.onesignal.BundleCompat;

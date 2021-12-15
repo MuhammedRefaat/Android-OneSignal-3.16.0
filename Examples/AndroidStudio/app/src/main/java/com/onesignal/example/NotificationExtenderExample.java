@@ -1,6 +1,6 @@
 package com.onesignal.example;
 
-import android.support.v7.app.NotificationCompat;
+import androidx.core.app.NotificationCompat;
 import android.util.Log;
 
 import com.onesignal.NotificationExtenderService;

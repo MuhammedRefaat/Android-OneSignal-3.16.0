@@ -7,8 +7,8 @@ import android.database.Cursor;
 import android.os.Build;
 import android.service.notification.StatusBarNotification;
 import androidx.annotation.RequiresApi;
-import android.support.v7.app.NotificationCompat;
-import android.support.v7.app.NotificationManagerCompat;
+import androidx.core.app.NotificationCompat;
+import androidx.core.app.NotificationManagerCompat;
 
 import java.util.ArrayList;
 

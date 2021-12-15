@@ -34,7 +34,7 @@ import android.content.Intent;
 import android.database.Cursor;
 import android.os.Build;
 import androidx.annotation.NonNull;
-import android.support.v7.app.NotificationManagerCompat;
+import androidx.core.app.NotificationManagerCompat;
 
 import com.onesignal.OneSignalDbContract.NotificationTable;
 

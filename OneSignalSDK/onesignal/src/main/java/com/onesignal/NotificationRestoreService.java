@@ -29,7 +29,7 @@ package com.onesignal;
 
 import android.app.IntentService;
 import android.content.Intent;
-import android.support.v4.content.WakefulBroadcastReceiver;
+import android.content.BroadcastReceiver;
 
 public class NotificationRestoreService extends IntentService {
 
@@ -46,6 +46,6 @@ public class NotificationRestoreService extends IntentService {
       OneSignal.setAppContext(this);
 
       NotificationRestorer.restore(this);
-      WakefulBroadcastReceiver.completeWakefulIntent(intent);
+      BroadcastReceiver.completeWakefulIntent(intent);
    }
 }

@@ -32,7 +32,7 @@ import android.app.Notification;
 import android.app.NotificationChannelGroup;
 import android.app.NotificationManager;
 import androidx.annotation.NonNull;
-import android.support.v7.app.NotificationCompat;
+import androidx.core.app.NotificationCompat;
 
 import org.robolectric.annotation.Implements;
 import org.robolectric.shadows.ShadowNotification;

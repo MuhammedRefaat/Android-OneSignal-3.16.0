@@ -66,7 +66,7 @@ import java.util.HashMap;
  * dispatched to and handled by your service.  It will be executed in
  * {@link #onHandleWork(Intent)}.</p>
  *
- * <p>You do not need to use {@link androidx.legacy.content.WakefulBroadcastReceiver}
+ * <p>You do not need to use {@link androidx.legacy.content.BroadcastReceiver}
  * when using this class.  When running on {@link android.os.Build.VERSION_CODES#O Android O},
  * the JobScheduler will take care of wake locks for you (holding a wake lock from the time
  * you enqueue work until the job has been dispatched and while it is running).  When running
