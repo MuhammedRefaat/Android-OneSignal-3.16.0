@@ -47,5 +47,5 @@ dependencies {
     implementation 'com.onesignal:OneSignal:[3.9.2, 3.99.99)'
 
     // Required for geotagging
-    implementation 'com.google.android.gms:play-services-location:15.0.1'
+    implementation 'com.google.android.gms:play-services-location:19.0.0'
 }
