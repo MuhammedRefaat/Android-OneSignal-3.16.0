@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3917bc9e-4f19-4280-845b-387daa0a1010" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Eclipse/OneSignalExample/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/Eclipse/OneSignalExample/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/AndroidSupportV4Compat.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/AndroidSupportV4Compat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GcmBroadcastReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GcmBroadcastReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GcmIntentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GcmIntentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationExtenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationExtenderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationRestoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationRestoreService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +43,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="213" y="144" width="764" height="617" key="find.popup" timestamp="1639594325030">
+    <state x="213" y="144" width="764" height="617" key="find.popup" timestamp="1639595433912">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="213" y="144" width="764" height="617" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1639594325030" />
+    <state x="213" y="144" width="764" height="617" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1639595433912" />
     <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1639577158138">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
