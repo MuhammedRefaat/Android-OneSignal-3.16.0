@@ -1,7 +1,7 @@
 package com.onesignal.influence;
 
-import androidx.annotation.Nullable;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import com.onesignal.OSSharedPreferences;
 import com.onesignal.OneSignalRemoteParams;

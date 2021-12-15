@@ -36,7 +36,7 @@ import android.os.Build;
 import android.os.Handler;
 import android.os.HandlerThread;
 import android.os.Looper;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 import android.view.ViewTreeObserver;
 
 import java.lang.ref.WeakReference;

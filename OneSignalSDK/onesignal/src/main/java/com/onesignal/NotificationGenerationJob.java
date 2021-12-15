@@ -30,7 +30,7 @@ package com.onesignal;
 
 import android.content.Context;
 import android.net.Uri;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import org.json.JSONObject;
 

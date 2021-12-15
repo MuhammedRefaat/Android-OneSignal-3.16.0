@@ -31,8 +31,8 @@ import android.app.Application;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.StrictMode;
-import androidx.annotation.Nullable;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 import android.util.Log;
 
 import com.onesignal.OSNotification;

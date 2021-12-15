@@ -1,8 +1,8 @@
 package com.onesignal;
 
 import android.content.Context;
-import androidx.annotation.Nullable;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 import android.text.TextUtils;
 
 import com.huawei.agconnect.config.AGConnectServicesConfig;

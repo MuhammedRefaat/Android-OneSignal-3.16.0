@@ -1,6 +1,6 @@
 package com.test.onesignal;
 
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import com.onesignal.ShadowOneSignalRestClient.Request;
 

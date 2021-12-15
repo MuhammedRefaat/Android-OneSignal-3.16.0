@@ -2,7 +2,7 @@ package com.onesignal;
 
 import android.content.Context;
 import android.content.res.Resources;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 import androidx.core.view.ViewCompat;
 import androidx.customview.widget.ViewDragHelper;
 import android.view.MotionEvent;

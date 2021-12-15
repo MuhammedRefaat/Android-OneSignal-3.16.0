@@ -27,7 +27,7 @@ package com.onesignal;
  * THE SOFTWARE.
  */
 
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import org.json.JSONObject;
 

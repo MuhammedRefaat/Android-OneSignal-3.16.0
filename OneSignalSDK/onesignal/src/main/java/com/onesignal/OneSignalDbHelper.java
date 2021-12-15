@@ -37,8 +37,8 @@ import android.database.sqlite.SQLiteDatabaseLockedException;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.SystemClock;
-import androidx.annotation.Nullable;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import com.onesignal.OneSignalDbContract.InAppMessageTable;
 import com.onesignal.OneSignalDbContract.NotificationTable;

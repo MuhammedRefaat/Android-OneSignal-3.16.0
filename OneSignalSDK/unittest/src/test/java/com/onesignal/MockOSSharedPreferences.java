@@ -1,7 +1,7 @@
 package com.onesignal;
 
-import androidx.annotation.Nullable;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import java.util.HashMap;
 import java.util.Set;

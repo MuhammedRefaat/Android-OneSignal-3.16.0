@@ -2,7 +2,7 @@ package com.test.onesignal;
 
 import android.app.Activity;
 import android.content.Intent;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import com.onesignal.NotificationOpenedActivityHMS;
 import com.onesignal.OSNotificationOpenResult;

@@ -1,7 +1,7 @@
 package com.onesignal.influence.model;
 
-import androidx.annotation.Nullable;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -32,7 +32,7 @@ import android.content.Context;
 import android.content.pm.PackageManager;
 import android.util.Base64;
 
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 import androidx.annotation.WorkerThread;
 
 import com.google.android.gms.tasks.Task;

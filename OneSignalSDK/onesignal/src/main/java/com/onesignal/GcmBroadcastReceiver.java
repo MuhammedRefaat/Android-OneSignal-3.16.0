@@ -36,7 +36,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Parcelable;
 import android.os.PersistableBundle;
-import androidx.annotation.Nullable;
+import androidx.annotation.Nullable; import androidx.annotation.NonNull;
 import android.content.BroadcastReceiver;
 
 import com.onesignal.NotificationBundleProcessor.ProcessedBundleResult;
