@@ -36,8 +36,8 @@ import android.net.Uri;
 import android.os.Build;
 import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
-import android.support.annotation.RequiresApi;
-import android.support.v4.app.NotificationManagerCompat;
+import androidx.annotation.RequiresApi;
+import android.support.v7.app.NotificationManagerCompat;
 
 import com.onesignal.language.LanguageContext;
 

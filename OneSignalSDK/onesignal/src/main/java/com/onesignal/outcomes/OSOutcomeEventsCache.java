@@ -3,7 +3,7 @@ package com.onesignal.outcomes;
 import android.content.ContentValues;
 import android.database.Cursor;
 import androidx.annotation.NonNull;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.WorkerThread;
 
 import com.onesignal.OSLogger;
 import com.onesignal.OSSharedPreferences;

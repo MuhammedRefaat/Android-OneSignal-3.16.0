@@ -45,7 +45,7 @@ import android.os.IBinder;
 import android.os.PowerManager;
 import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
-import android.support.annotation.RequiresApi;
+import androidx.annotation.RequiresApi;
 import android.util.Log;
 
 import java.util.ArrayList;

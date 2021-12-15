@@ -44,7 +44,7 @@ import android.os.Handler;
 import android.os.Looper;
 import androidx.annotation.NonNull;
 import androidx.annotation.NonNull;
-import android.support.v4.app.NotificationManagerCompat;
+import android.support.v7.app.NotificationManagerCompat;
 import android.telephony.TelephonyManager;
 
 import com.google.android.gms.common.GoogleApiAvailability;
@@ -237,7 +237,7 @@ class OSUtils {
    private static boolean hasNotificationManagerCompat() {
       try {
          // noinspection ConstantConditions
-         return android.support.v4.app.NotificationManagerCompat.class != null;
+         return android.support.v7.app.NotificationManagerCompat.class != null;
       } catch (Throwable e) {
          return false;
       }
@@ -246,7 +246,7 @@ class OSUtils {
    private static boolean hasJobIntentService() {
       try {
          // noinspection ConstantConditions
-         return android.support.v4.app.JobIntentService.class != null;
+         return android.support.v7.app.JobIntentService.class != null;
       } catch (Throwable e) {
          return false;
       }

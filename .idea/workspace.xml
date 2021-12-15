@@ -6,7 +6,36 @@
   <component name="ChangeListManager">
     <list default="true" id="3917bc9e-4f19-4280-845b-387daa0a1010" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSSystemConditionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSSystemConditionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples/AndroidStudio/app/src/main/java/com/onesignal/example/NotificationExtenderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/AndroidStudio/app/src/main/java/com/onesignal/example/NotificationExtenderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/app/src/main/java/com/onesignal/example/NotificationExtenderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/app/src/main/java/com/onesignal/example/NotificationExtenderServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/AndroidSupportV4Compat.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/AndroidSupportV4Compat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/BadgeCountUpdater.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/BadgeCountUpdater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/BundleCompat.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/BundleCompat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/FocusTimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/FocusTimeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GcmIntentJobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GcmIntentJobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GenerateNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/GenerateNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/JobIntentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/JobIntentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationChannelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationChannelManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationExtenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationExtenderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationLimitManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationLimitManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationOpenedProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationOpenedProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationRestorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/NotificationRestorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSInAppMessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSInAppMessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OSUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignal.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalCacheCleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalCacheCleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalJobServiceBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalJobServiceBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalNotificationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalNotificationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalSyncServiceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/OneSignalSyncServiceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/PushRegistratorFCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/PushRegistratorFCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/RestoreKickoffJobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/RestoreKickoffJobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/SyncJobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/SyncJobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/outcomes/OSOutcomeEventsCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/onesignal/src/main/java/com/onesignal/outcomes/OSOutcomeEventsCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/onesignal/OneSignalNotificationManagerPackageHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/onesignal/OneSignalNotificationManagerPackageHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/onesignal/ShadowNotificationManagerCompat.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/onesignal/ShadowNotificationManagerCompat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/onesignal/ShadowRoboNotificationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/onesignal/ShadowRoboNotificationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/test/onesignal/GenerateNotificationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/test/onesignal/GenerateNotificationRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/test/onesignal/NotificationLimitManagerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/OneSignalSDK/unittest/src/test/java/com/test/onesignal/NotificationLimitManagerRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +72,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="267" width="764" height="617" key="find.popup" timestamp="1639575157387">
+    <state x="213" y="144" width="764" height="617" key="find.popup" timestamp="1639577839924">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="378" y="267" width="764" height="617" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1639575157387" />
-    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1639574056066">
+    <state x="213" y="144" width="764" height="617" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1639577839924" />
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1639577158138">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1639574056066" />
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1639577158138" />
   </component>
 </project>

@@ -33,7 +33,7 @@ import android.content.pm.PackageManager;
 import android.util.Base64;
 
 import androidx.annotation.NonNull;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.WorkerThread;
 
 import com.google.android.gms.tasks.Task;
 import com.google.android.gms.tasks.Tasks;
